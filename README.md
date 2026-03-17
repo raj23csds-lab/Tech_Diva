@@ -1,2 +1,2 @@
-# Teach_Diva
+# Tech_Diva
 gen_AI_hackathon_
